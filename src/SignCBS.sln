@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignCBS", "SignCBS.csproj", "{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Debug|x64.ActiveCfg = Debug|x64
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Debug|x64.Build.0 = Debug|x64
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Debug|x86.ActiveCfg = Debug|x86
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Debug|x86.Build.0 = Debug|x86
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Release|x64.ActiveCfg = Release|x64
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Release|x64.Build.0 = Release|x64
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Release|x86.ActiveCfg = Release|x86
+		{FFF72CB2-EEEB-426C-9B6F-91518F531EC7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E020724F-A2FA-4E97-ACEE-7DAB0A78D010}
+	EndGlobalSection
+EndGlobal
