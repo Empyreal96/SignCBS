@@ -1,11 +1,1 @@
-# SignCBS
-Test Sign Windows Phone CBS Packages
-
-This software will allow you to sign Windows Phone packages (.cab format) with the Windows Phone OEM Test Certificate.
-
-Packages signed with this software/certificate will require an unlocked bootloader to be flashed to the device
-
-
-
-
-Note: Some software and libraries included with this software is copyrighted Microsoft.
+# SignCBSTest Sign Windows Phone CBS PackagesThis software will allow you to sign Windows Phone packages (.cab format) with the Windows Phone OEM Test Certificate.Packages signed with this software/certificate will require an unlocked bootloader to be flashed to the device```Windows Phone CBS Package SignerSignCBS 1.0.0.3Copyright © Empyreal96 2023  Required option 'p, path' is missing.  -r, --recurse    (Default: false) Process all folders in the given path  -p, --path       Required. Path containing CBS Cab packages.  -l, --logfile    (Default: false) Log output to new file  --help           Display this help screen.  --version        Display version information.```Note: Some software and libraries included with this software is copyrighted Microsoft.
